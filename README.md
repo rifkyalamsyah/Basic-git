@@ -21,10 +21,10 @@
 
 - git clone
   
-  Perintah git clone digunakan untuk checkout repositori. Jia repositori berada di remove server, gunakan:
+  Perintah git clone digunakan untuk checkout repositori. Jika repositori berada di remove server, gunakan:
   
   `git clone`
   
-  or
+  contohnya
   
   `git clone https://github.com/rifkyalamsyah/basic-git.git`
